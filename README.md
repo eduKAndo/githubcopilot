@@ -14,5 +14,4 @@ by *Agnaldo*
 * [005](005-VSCode-ExplicarComentar.md) Usando o **GitHub Copilot** para explicar e comentar código C# no **VS Code**
 * [006](006-VSCode-Refatorar.md) Usando o **GitHub Copilot** para refatorar código **C#** - transformação entre funções recursivas e iterativas 
 * [007](007-VSCode-Refatorar.md) Usando o **GitHub Copilot Chat** para traduzir código entre linguagens (**Python** e **C#**)
-* [008](008-VSCode-Criar.md) Usando o GitHub Copilot para criar e estilizar uma página HTML com CSS
-> **obs.:** *conteúdo parcialmente gerado por IA*
+* [008](008-VSCode-Criar.md) Usando o **GitHub Copilot** para criar e estilizar uma página **HTML** com **CSS**
