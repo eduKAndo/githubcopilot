@@ -1,9 +1,7 @@
 # GitHub Copilot na Prática - KA SOLUTION  
 Demos e labs do treinamento **GitHub Copilot na Prática**
 
-<p style="text-align: right;">by *Agnaldo*</p>
-
-
+by *Agnaldo*
 
 ## Demos
 
