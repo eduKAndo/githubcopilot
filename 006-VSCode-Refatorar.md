@@ -1,4 +1,4 @@
-# Exercício: Usando o GitHub Copilot para refatorar código - transformação entre funções recursivas e iterativas
+# Exercício: Usando o GitHub Copilot para refatorar código C# - transformação entre funções recursivas e iterativas
 
 ## Objetivo
 Neste exercício, você aprenderá a **utilizar o GitHub Copilot para refatorar código**, convertendo uma função **recursiva em iterativa** e vice-versa. O Copilot pode sugerir diferentes abordagens para melhorar o desempenho e legibilidade do código.
