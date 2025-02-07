@@ -3,7 +3,7 @@ Demos e labs do treinamento **GitHub Copilot na Prática**
 
 by *Agnaldo*
 
----
+
 
 ## Demos
 
