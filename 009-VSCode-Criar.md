@@ -132,7 +132,7 @@ O Copilot deve gerar um código atualizado que verifica se o e-mail foi respondi
 
 ## Conclusão
 
-Agora você aprendeu a **utilizar o GitHub Copilot e Copilot Chat para gerar e modificar código automaticamente**, conectando-se ao Outlook para obter informações dos e-mails recebidos e enviados.
+Agora você aprendeu a **utilizar o GitHub Copilot** e o **GitHub Copilot Chat** para gerar e modificar código automaticamente, conectando-se ao **Outlook** para obter informações dos e-mails recebidos e enviados.
 
 Esse recurso pode ser útil para automatizar consultas a caixas de e-mails e analisar comunicações.
 
