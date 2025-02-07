@@ -7,4 +7,4 @@ by *Agnaldo*
 
 ##Demos
 
-[001-VSCode-Instalar](001-VSCode-Instalar) - Instalar as extenssões do GitHub Copilot no VS Code
+[001-VSCode-Instalar](001-VSCode-Instalar.md) - Instalar as extenssões do GitHub Copilot no VS Code
