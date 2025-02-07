@@ -35,3 +35,5 @@ Antes de iniciar, certifique-se de que você possui:
 2. Digite um comentário descrevendo uma função, por exemplo:
    ```java
    // Método que retorna a soma de dois números
+
+> **obs.:** *conteúdo parcialmente gerado por IA*
