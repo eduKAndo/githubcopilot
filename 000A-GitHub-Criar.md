@@ -1,9 +1,9 @@
-# Exercício: Criando uma Conta, uma Organização e um Projeto Público no GitHub
+# Criando uma conta, uma organização e um repositório público no GitHub
 
 ## Objetivo
 Neste exercício, você irá criar uma conta no GitHub, configurar uma organização e iniciar um projeto público dentro dela.
 
-## Passo a Passo
+## Passo a passo
 
 ### 1. Criando uma Conta no GitHub
 
