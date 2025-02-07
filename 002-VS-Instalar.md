@@ -34,3 +34,5 @@ Antes de começar, verifique se você possui:
 2. Digite um comentário descrevendo uma função, por exemplo:
    ```csharp
    // Método que soma dois números
+
+> **obs.:** *conteúdo parcialmente gerado por IA*
