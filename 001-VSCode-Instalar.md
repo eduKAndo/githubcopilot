@@ -3,7 +3,7 @@
 ## Objetivo
 Neste exercício, você irá instalar e configurar a extensão GitHub Copilot no Visual Studio Code (VS Code), garantindo que sua IDE esteja pronta para receber sugestões de código geradas por IA.
 
----
+
 
 ## Passo a Passo
 
@@ -13,7 +13,7 @@ Antes de começar, certifique-se de que você possui:
 - Conta no GitHub (com uma assinatura válida do GitHub Copilot ou acesso ao período de testes).
 - Conexão com a internet para baixar a extensão.
 
----
+
 
 ### 2. Instalando o GitHub Copilot no VS Code
 
@@ -23,7 +23,7 @@ Antes de começar, certifique-se de que você possui:
 4. Selecione a extensão **GitHub Copilot** (desenvolvida pela Microsoft).
 5. Clique no botão **Instalar** e aguarde a conclusão do processo.
 
----
+
 
 ### 3. Autenticando o GitHub Copilot
 
@@ -32,7 +32,7 @@ Antes de começar, certifique-se de que você possui:
 3. Autorize o GitHub Copilot a acessar sua conta no GitHub.
 4. Caso tenha uma assinatura ativa do Copilot, a extensão será ativada automaticamente.
 
----
+
 
 ### 4. Testando o GitHub Copilot
 
