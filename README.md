@@ -11,6 +11,6 @@ by *Agnaldo*
 * [002 - VS-Instalar](002-VS-Instalar.md) - Instalando as extensões do **GitHub Copilot** no **Visual Studio 2022**
 * [003 - IDEA-Instalar](003-IDEA-Instalar.md) - Instalando as extensões do **GitHub Copilot** no **InteliJ IDEA Community Edition 2024.3.2.2**
 * [004 - VSCode-Criar](004-VSCode-Criar.md) - Utilizando o **GitHub Copilot** para gerar código em C# no **VS Code**
-* [005 - VSCode-ExplicarComentar](005-VSCode-ExplicarComentar.md) - Utilizando o **GitHub Copilot** para gerar código em C# no **VS Code**
+* [005 - VSCode-ExplicarComentar](005-VSCode-ExplicarComentar.md) - Usando o **GitHub Copilot** para explicar e comentar código C# no **VS Code**
 
 > **obs.:** *conteúdo parcialmente gerado por IA*
