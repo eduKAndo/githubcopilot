@@ -5,8 +5,8 @@ by *Agnaldo*
 
 ## Demos
 
-* [000-A](000A-GitHub-Criar.md) Criando uma conta, uma organização e um repositório público no **GitHub**
-* [000-B](000B-GitHubCopilot-Criar.md) Criando uma conta do **GitHub Copilot** - plano individual
+* [00A](000A-GitHub-Criar.md) Criando uma conta, uma organização e um repositório público no **GitHub**
+* [00B](000B-GitHubCopilot-Criar.md) Criando uma conta do **GitHub Copilot** - plano individual
 * [001](001-VSCode-Instalar.md) Instalando as extensões do **GitHub Copilot** no **VS Code 1.96.4**
 * [002](002-VS-Instalar.md) Instalando as extensões do **GitHub Copilot** no **Visual Studio 2022**
 * [003](003-IDEA-Instalar.md) Instalando as extensões do **GitHub Copilot** no **InteliJ IDEA Community Edition 2024.3.2.2**
