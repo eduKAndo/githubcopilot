@@ -41,7 +41,4 @@ Neste exercício, você irá criar uma conta no GitHub, configurar uma organiza�
 3. Clique em **Create repository**.
 4. Seu repositório público foi criado e já pode ser acessado por qualquer pessoa.
 
-## Conclusão
-Agora você tem uma conta no GitHub, uma organização configurada e um repositório público dentro dela. Você pode adicionar colaboradores, gerenciar permissões e começar a desenvolver seu projeto. 
-
-<small>conteúdo _parcialmente_ gerado por IA</small>
+> **obs.:** *conteúdo parcialmente gerado por IA*
