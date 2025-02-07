@@ -3,6 +3,11 @@ Demos e labs do treinamento **GitHub Copilot na Prática**
 
 > by agnaldo · **Ka Solution** · 2025
 
+## Dicas
+
+* O **instrutor** deve **escolher** as **demos** que sejam **adequadas** ao treinamento e **apresentá-las** quando for **conveniente**
+
+
 ## Demos
 
 * [00A](000A-GitHub-Criar.md) Criando uma conta, uma organização e um repositório público no **GitHub**
