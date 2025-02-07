@@ -1,4 +1,4 @@
-# Exercício: Criando uma Conta no GitHub Copilot para Usuário Individual
+# Exercício: Criando uma conta do GitHub Copilot - plano individual
 
 ## Objetivo
 Neste exercício, você irá criar uma conta no GitHub Copilot para uso individual, garantindo acesso às sugestões de código geradas por IA dentro do seu ambiente de desenvolvimento.
